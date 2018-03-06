@@ -15,9 +15,8 @@ GPU dev said the card does not support the features required in ccminer. This is
 
 ![when pool](./images/when-pool.jpg)
 
-[html.mineto.site](https://html.mineto.site/index.php?page=gettingstarted)
-
-A custom windows binary of ccminer is currently required. We are working with pool operator to make it compatible with [mghtthr's repo](https://github.com/mghtthr/ccminer) .
+[https://html.mineto.site/index.php?page=gettingstarted](https://html.mineto.site/index.php?page=gettingstarted)
 
 ![custom ccminer](./images/180306-00.jpg)
 
+You must download the custom Windows binary of ccminer from the pool web site. We are currently working with pool operator to make it compatible with [mghtthr's ccminer](https://github.com/mghtthr/ccminer) .
