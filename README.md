@@ -1,13 +1,7 @@
 # htmlmining
 # Unofficial HTMLCOIN Mining Group
 
-### [GPU Hash Rates](./hashrate/htmlcoin-gpu-hashrates.md)
-
-### [Frequently Asked Questions](./FAQ.md)
-
 ### Solo Mining HTMLCOIN via GPU (Nvidia & AMD)
-
-### 
 
 ## NVIDIA CUDA
 
@@ -48,3 +42,9 @@ To solo mine:
 modifed ccminer for Windows: [https://drive.google.com/file/d/1nAM80H6PLA_vMuYEBo6gFZQQrDc5a7Hr/view?usp=sharing](https://drive.google.com/file/d/1nAM80H6PLA_vMuYEBo6gFZQQrDc5a7Hr/view?usp=sharing)
 
 You must use this custom binary to mine with this pool.
+
+## Other Resources
+
+### [HTMLCOIN GPU Hash Rates](./hashrate/htmlcoin-gpu-hashrates.md)
+
+### [Frequently Asked Questions](./FAQ.md)
