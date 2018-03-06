@@ -18,6 +18,7 @@ These are GPU hash rates based on screenshots from the [Unofficial HTMLCoin Mini
 - Gigabyte GTX 980 Ti | 666 MH/s | | [gigabyte-gtx980ti-666](./images/gigabyte-gtx980ti-666.jpg)
 - ASUS GTX 1080  | 840 MH/s - 940 MH/s | | [asus-gtx1080](./images/asus-gtx1080.jpg)
 - Gigabyte GTX 1080 Ti | 937 MH/s | | [gigabyte-gtx1080ti](./images/gigabyte-gtx1080ti.jpg)
+- GeForce GTX 1080 | 1025 MH/s | 2074 MHz 79C FAN 100% | [geforce-gtx1080](./images/geforce-gtx1080.jpg)
 - Gigabyte GTX 1080 Ti | 1200 MH/s | | [gigabyte-gtx1080ti](./images/gigabyte-gtx1080ti.jpg)
 
 ## AMD
