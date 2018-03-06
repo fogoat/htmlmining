@@ -15,8 +15,10 @@ GPU dev said the card does not support the features required in ccminer. This is
 
 ![when pool](./images/when-pool.jpg)
 
-[https://html.mineto.site/index.php?page=gettingstarted](https://html.mineto.site/index.php?page=gettingstarted)
-
-![custom ccminer](./images/180306-00.jpg)
+[List of pools](./pools.md)
 
 You must download the custom Windows binary of ccminer from the pool web site. We are currently working with pool operator to make it compatible with [mghtthr's ccminer](https://github.com/mghtthr/ccminer) .
+
+**Can I mine with CPU?**
+
+Unfortunately, the network difficulty is so high, CPU mining is a wasteful. If you want to CPU mine, choose an altcoin that is still CPU friendly such as [Cryptonote](https://www.cryptunit.com/?order=price24). 
