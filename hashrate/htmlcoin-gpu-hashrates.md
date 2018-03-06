@@ -9,10 +9,10 @@ These are GPU hash rates based on screenshots from the [Unofficial HTMLCoin Mini
 
 ## NVIDIA
 
-- Generic GTX 1050 | 202 MH/s | intensity 25 | [geforce-gtx105](./images/geforce-gtx1050.jpg)
+- Generic GTX 1050 | 202 MH/s | intensity 25 | [geforce-gtx1050](./images/geforce-gtx1050.jpg)
 - MSI GTX 970 | 385 MH/s | 1316 MHz 2504 kH/W 153W 56C FAN 56% | [msi-gtx970](./images/msi-gtx970.jpg)
 - MSI GTX 970 | 386 MH/s | 166W 62C FAN 48% | [msi-gtx970-1](./images/msi-gtx970-1.jpg)
-- ASUS GTX 1060 6GB | 445 MH/s | 1886 MHz 4308 kH/W 103W 68C FAN 38% | [sus-gtx1060-1](./images/asus-gtx1060-1.jpg)
+- ASUS GTX 1060 6GB | 445 MH/s | 1886 MHz 4308 kH/W 103W 68C FAN 38% | [asus-gtx1060-1](./images/asus-gtx1060-1.jpg)
 - ASUS GTX 980 | 450 MH/s | 1328 MHz 2479 kH/W 182W 72C FAN 66% | [asus-gtx980](./images/asus-gtx980.jpg)
 - ASUS GTX 1060 6GB | 465 MH/s | 1965 MHz 4095 kH/W 113W 66C FAN 51% | [asus-gtx1060-2](./images/asus-gtx1060-2.jpg)
 - Gigabyte GTX 980 Ti | 666 MH/s | | [gigabyte-gtx980ti-666](./images/gigabyte-gtx980ti-666.jpg)
