@@ -15,9 +15,7 @@ GPU dev said the card does not support the features required in ccminer. This is
 
 ![when pool](./images/when-pool.jpg)
 
-[List of pools](./pools.md)
-
-You must download the custom Windows binary of ccminer from the pool web site. We are currently working with pool operator to make it compatible with [mghtthr's ccminer](https://github.com/mghtthr/ccminer) .
+# [List of pools](./pool.md)
 
 **Can I mine with CPU?**
 
