@@ -1,7 +1,5 @@
-# htmlmining FAQ
-
-Unofficial HTMLCOIN Mining Group FAQ
-
+## Unofficial HTMLCOIN Mining Group FAQ
+<br>
 
 **When I run ccminer, I get an `invalid device symbol` error.**
 
@@ -15,7 +13,7 @@ GPU dev said the card does not support the features required in ccminer. This is
 
 ![when pool](./images/when-pool.jpg)
 
-# [List of pools](./pool.md)
+## [List of pools](./pool.md)
 
 **Can I mine with CPU?**
 
