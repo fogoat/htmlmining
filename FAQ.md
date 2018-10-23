@@ -18,3 +18,9 @@ GPU dev said the card does not support the features required in ccminer. This is
 **Can I mine with CPU?**
 
 Unfortunately, the network difficulty is so high, CPU mining is a wasteful. If you want to CPU mine, choose an altcoin that is still CPU friendly such as [Cryptonote](https://www.cryptunit.com/?order=price24). 
+
+**What algorithm is HTMLCOIN**
+
+It is a mix of Bitcoin (SHA256D) and Ethereum. You can not used a Bitcoin ASIC miner (e.g. Antminer S9) to mine HTMLCOIN. The algorithm is different enough that an ASIC can not generate an acceptable hash for the HTMLCOIN network. This is why only GPU mining (and previously CPU) is available. 
+
+ ![HTMLCOIN hash technical ](./images/htmlcoin-hash-technical.jpg)
