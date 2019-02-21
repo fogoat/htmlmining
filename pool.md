@@ -25,7 +25,7 @@ You must use this custom binary to mine with this pool.
 
 To mine on pool, use the following command:
 
-`ccminer_html -o stratum+tcp://eu.html.mineto.site:3008 -u Weblogin.WorkerName -p WorkerPassword`
+`ccminer_html -a html -o stratum+tcp://eu.html.mineto.site:3008 -u Weblogin.WorkerName -p WorkerPassword`
 
 - Weblogin is the user id you registered with on the site
 - WorkerName is work you set up after you registered on the site
