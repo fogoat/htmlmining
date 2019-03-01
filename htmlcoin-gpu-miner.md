@@ -15,6 +15,8 @@ Here’s a basic outline of how i went from knowing nothing about htmlcoin, bloc
 
 5) understood general idea - took a block header from bitcoin & computed sha256d w/ python sha libs to physically see the hash & how it works.
 
+![HTMLCOIN block header](./images/htmlcoin-block-header.jpg)
+
 6) need to understand sha256 - http://www.iwar.org.uk/comsec/resources/cipher/sha256-384-512.pdf  Studied this - it’s pretty simple. Just bit shifting, simple logic / addition, etc.  
 
 7) wrote a simple c program to compute sha256 - used examples in PDF until it worked properly.

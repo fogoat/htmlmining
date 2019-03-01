@@ -1,5 +1,6 @@
-# Unofficial HTMLCOIN Mining Group
-<br>
+![HTMLCOIN CPU](./images/htmlcoin.png)
+
+# HTMLCOIN Mining Group (Unofficial)
 
 ### [Nvidia solo mining](./nvidia.md)  [![Nvidia](./images/nvidia.png)](./nvidia.md)
 <br>
@@ -12,6 +13,9 @@
 
 ## Other Resources
 
+### [Frequently Asked Questions](./FAQ.md)
+
 ### [HTMLCOIN GPU Hash Rates](./hashrate/htmlcoin-gpu-hashrates.md)
 
-### [Frequently Asked Questions](./FAQ.md)
+### [johninaustin's HTMLCOIN GPU miner story](./htmlcoin-gpu-miner.md)
+
