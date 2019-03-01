@@ -19,3 +19,4 @@
 
 ### [johninaustin's HTMLCOIN GPU miner story](./htmlcoin-gpu-miner.md)
 
+### [HTMLCOIN mining origin story](./mining-history.md)
