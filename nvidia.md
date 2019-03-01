@@ -4,7 +4,7 @@
 
 ![Nvidia](./images/nvidia.png)
 
-Configure [HTMLCOIN wallet for solo mining](./htmldaemon.md)
+First configure [HTMLCOIN wallet for solo mining](./html-daemon.md)
 
 Once running, get ccminer from mghtthr: [https://github.com/mghtthr/ccminer](https://github.com/mghtthr/ccminer)
 

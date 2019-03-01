@@ -1,7 +1,8 @@
 ### Solo Mining HTMLCOIN via AMD GPU
+
 ![OpenCL](./images/intel-amd.jpg)
 
-Configure [HTMLCOIN wallet for solo mining](./htmldaemon.md)
+First configure [HTMLCOIN wallet for solo mining](./html-daemon.md)
 
 You have to compile bfgminer [https://github.com/johninaustin/](https://github.com/johninaustin/) yourself.
 
