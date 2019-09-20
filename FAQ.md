@@ -17,7 +17,7 @@ GPU dev said the card does not support the features required in ccminer. This is
 
 **Can I mine with CPU?**
 
-Unfortunately, the network difficulty is so high, CPU mining is a wasteful. If you want to CPU mine, choose an altcoin that is still CPU friendly such as [Cryptonote](https://www.cryptunit.com/?order=price24). 
+Unfortunately, the network difficulty is so high, CPU mining is a wasteful. If you want to CPU mine, choose an altcoin that is still CPU friendly. I have a short list of [CPU mineable coins](https://twitter.com/sunk818/lists/best-coin-to-mine-in-2019). 
 
 **What algorithm is HTMLCOIN**
 
