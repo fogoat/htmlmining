@@ -3,6 +3,12 @@
 
 ----------
 
+As of Aug 2020, the pool for yatson1 html.mineto.site has been taken offline. There is no HTMLCOIN pool that I am aware of at this time.
+
+If you want to start up a pool, you can try contacting yatson1 at https://github.com/yatson1 to see if he has any suggestions for pool software.
+
+----------
+
 Setting up a miner for a HTMLCOIN pool is much simpler than solo mining. All you need is a HTMLCOIN compatible GPU miner and a HTMLCOIN receiving address. 
 
 ## MineTo
